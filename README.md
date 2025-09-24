@@ -1,6 +1,4 @@
-تمام ✅ ده ملف **README.md** كامل ومكتوب كله على بعضه عشان تقدر تنسخه وتحطه مباشرة:
 
-````markdown
 # ❌⭕ Tic Tac Toe (Python + Tkinter)
 
 A **desktop Tic Tac Toe game** built with **Python** and **Tkinter**. It offers both **two-player** and **AI modes**, with the AI powered by the **Minimax algorithm** and **Alpha-Beta Pruning** for optimal moves.  
@@ -39,7 +37,7 @@ A **desktop Tic Tac Toe game** built with **Python** and **Tkinter**. It offers 
    ```bash
    git clone https://github.com/yourusername/tic-tac-toe-tkinter.git
    cd tic-tac-toe-tkinter
-````
+
 
 2. **Run the game**:
 
